@@ -1,4 +1,4 @@
-#Python Refresher# 
+Python Refresher 
 Repository Created By Micah Jones
 
 Based On Kylie Ying's Python Projects
