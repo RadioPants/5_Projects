@@ -1,14 +1,11 @@
 Python Refresher 
 Repository Created By Micah Jones
+# Current Working branch is the API branch. Starting at commit c44d1*****.
 
-Based On Kylie Ying's Python Projects
+Some examples are based On Kylie Ying's Python Projects
 - YouTube Python Refresher 
 
-https://www.youtube.com/watch?v=8ext9G7xspg
-
 - Kylie Ying's YouTube Channel
-
 https://www.youtube.com/ycubed 
-
 
 *Using Standard Python Libraries*
